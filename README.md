@@ -1,4 +1,5 @@
-# 五分钟带你＂玩赚＂虚拟货币，从注册到交易
+# 火币平台用户指导书
+## 五分钟带你＂玩赚＂虚拟货币，从注册到交易
 ----
 虚拟货币其实早已不是什么新话题了，大家熟知的比特币(BTC),以太坊(ETH), 柚子(EOS)等都属于虚拟货币，或者叫数字货币．它们都是依托于区块链技术而产生的，在这里我并不想解释区块链技术是什么？也不想探讨数字货币的价值是什么？这不是本文的重点，文末我会放上相关链接，讲得比我透彻，大家有兴趣可以去了解．我的观点是：**存在即合理，区块链技术确实能排除很多人为因素，帮助我们解决共信共识问题，不受地域，政治因素的影响，这也是为什么现在银行，保险，证券等行业大量研究和使用区块链技术的原因．数字货币跟我们常用的＂法币＂（如美元，人民币）本质上没有什么太大的不同，数字货币依托于大家对他的认可而变得有价值，法币依托于大家对这个币种背后的政权的认可而变得有价值．说白了，数字货币就是一串数字，法币就是一张纸，只要大家认为他有价值他就有价值，从这个角度来看，它们之间没有区別**．至于数字货币和法币其他方面的不同或者优劣，篇幅有限，我不作展开了．
 
@@ -19,16 +20,16 @@
 
 ## 2.下载火币全球站APP
 注册好账号后，为了方便交易，我们最好在手机上安装火币APP. 由于火币的服务器不在国内，所以在较小的应用商城大家可能找不到（甚到找到很多盗版的，大家一定要小心），这里我推荐三个APP下载地址：
+
+- (**推荐**)[官网下载地址](https://www.huobi.co/zh-cn/)，提供安卓，苹果，Windows，Mac OS, 如下图，通过扫描二维码，在浏览器中下载到手机，然后安装．
+![home.png](https://upload-images.jianshu.io/upload_images/579770-65648c8544bd3839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 - 安卓系统：谷歌应用商店（需要翻墙），搜索＂火币＂，　找到＂火币　Global＂, 如下图：
 ![android_googleplay.jpg](https://upload-images.jianshu.io/upload_images/579770-a8328af892f92cb3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 - 苹果系统：苹果应用商店，搜索火币，如下图（身边有朋友反映搜索不到，可能跟当前登录APP Store的账号地域有关）
 ![ios.jpg](https://upload-images.jianshu.io/upload_images/579770-7423ff5c899871db.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-- (**推荐**)[官网下载地址](https://www.huobi.co/zh-cn/)，提供安卓，苹果，Windows，Mac OS, 如下图，通过扫描二维码，在浏览器中下载到手机，然后安装．
-![home.png](https://upload-images.jianshu.io/upload_images/579770-65648c8544bd3839.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 3.登录进入APP,完善安全认证
